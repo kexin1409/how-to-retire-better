@@ -1,5 +1,11 @@
 # 高性价比养老规划指南
 
+## 在线阅读
+
+- 在线阅读页：https://kexin1409.github.io/how-to-retire-better/ （单文件零依赖，手机/断网可读，可搜索、可按性价比/证据等级/风险筛选）
+- PDF 下载（国内直连）：https://kexin1409.github.io/how-to-retire-better/how-to-retire-better.pdf
+- 仓库：https://github.com/kexin1409/how-to-retire-better
+
 循「高性价比」系列第七本。前六本（[饮食](https://github.com/kexin1409/how-to-eat-better)、[睡眠](https://github.com/kexin1409/how-to-sleep-better)、[运动](https://github.com/kexin1409/how-to-exercise-better)、[搞钱](https://github.com/kexin1409/how-to-earn-better)、[投资](https://github.com/kexin1409/how-to-invest-better)、[避坑](https://github.com/kexin1409/how-to-decide-better)）之后，这本把镜头转向**养老**——不是教你怎么买理财，而是把「退休到底要攒多少、三支柱怎么配、何时退、怎么提款、通胀和长寿怎么防」这些最大的变量，塞回养老规划里。
 
 ## 核心来源与口径
